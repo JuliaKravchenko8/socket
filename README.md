@@ -1,14 +1,36 @@
+<<<<<<< Updated upstream
+
 # socket
 
-1. npm install
-2. npm i express
-3. npm i nodemon
-4. add "server": "nodemon index.js", on package.json => script
-5. npm run server
-6. use Serving HTML (documentation) for change index.html and index.js
-7. npm install socket.io
-8. npm run server
-9. use Emitting events (documentation) for index.js
-10. use Broadcasting (documentation)
+=======
+Всім привіт!
 
-https://mangrove-zigzag-practice.glitch.me/
+Вас вітають студенти курсу Fullstack школи ІТ-професій GoIT!
+
+Ми закінчили вивчати JavaScript і для того, щоб закріпити на практиці отримані
+знання, реалізували випускний проект Filmoteka.
+
+Filmoteka — це веб-програма для створення бази даних фільмів, яка дозволяє:
+
+- шукати фільми у базі даних;
+
+* переглядати інформацію про популярні фільми;
+* зберігати фільми у бібліотеку (переглянуті і в черзі на перегляд).
+
+Наша команда:
+
+..\* [Яна Філь - Team Lead] (https://github.com/iankaFil)
+..\* [Юлія Кравченко - Scrum master] (https://github.com/iankaFil)
+..\* [Олександр Кушнір - Developer] (https://github.com/iankaFil)
+..\* [Катерина Скрипченко - Developer] (https://github.com/iankaFil)
+..\* [Оксана Тригуб - Developer] (https://github.com/iankaFil)
+..\* [Олена Бондар - Developer] (https://github.com/iankaFil)
+..\* [Марина Скорик - Developer] (https://github.com/iankaFil)
+..\* [Владислав Шкарапута - Developer] (https://github.com/iankaFil)
+..\* [Володимир Бублик - Developer] (https://github.com/iankaFil)
+..\* [Олександр Куліков - Developer] (https://github.com/iankaFil)
+..\* [Олександр Сашин - Developer] (https://github.com/iankaFil)
+..\* [Віталій Ленін - Developer] (https://github.com/iankaFil)
+..\* [Сергій Руденко - Developer] (https://github.com/iankaFil)
+
+> > > > > > > Stashed changes
