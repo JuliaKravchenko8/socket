@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-
 # socket
 
 =======
@@ -18,7 +16,7 @@ Filmoteka — це веб-програма для створення бази д
 
 Наша команда:
 
-- [Яна Філь - Team Lead](https://github.com/iankaFil)
+- [Яна-Анна Філь - Team Lead](https://github.com/iankaFil)
 - [Юлія Кравченко - Scrum master](https://github.com/iankaFil)
 - [Олександр Кушнір - Developer](https://github.com/iankaFil)
 - [Катерина Скрипченко - Developer](https://github.com/iankaFil)
@@ -27,9 +25,7 @@ Filmoteka — це веб-програма для створення бази д
 - [Марина Скорик - Developer](https://github.com/iankaFil)
 - [Владислав Шкарапута - Developer](https://github.com/iankaFil)
 - [Володимир Бублик - Developer](https://github.com/iankaFil)
-- [Олександр Куліков - Developer](https://github.com/iankaFil)
+- [Олександр Куликов - Developer](https://github.com/iankaFil)
 - [Олександр Сашин - Developer](https://github.com/iankaFil)
 - [Віталій Ленін - Developer](https://github.com/iankaFil)
 - [Сергій Руденко - Developer](https://github.com/iankaFil)
-
-> > > > > > > Stashed changes
