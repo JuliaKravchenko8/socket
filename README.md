@@ -18,18 +18,18 @@
 **Наша команда:**
 
 - [Яна-Анна Філь - Team Lead](https://github.com/iankaFil)
-- [Юлія Кравченко - Scrum master](https://github.com/iankaFil)
-- [Олександр Кушнір - Developer](https://github.com/iankaFil)
-- [Катерина Скрипченко - Developer](https://github.com/iankaFil)
-- [Оксана Тригуб - Developer](https://github.com/iankaFil)
-- [Олена Бондар - Developer](https://github.com/iankaFil)
-- [Марина Скорик - Developer](https://github.com/iankaFil)
-- [Владислав Шкарапута - Developer](https://github.com/iankaFil)
-- [Володимир Бублик - Developer](https://github.com/iankaFil)
-- [Олександр Куликов - Developer](https://github.com/iankaFil)
-- [Олександр Сашин - Developer](https://github.com/iankaFil)
-- [Віталій Ленін - Developer](https://github.com/iankaFil)
-- [Сергій Руденко - Developer](https://github.com/iankaFil)
+- [Юлія Кравченко - Scrum master](https://github.com/JuliaKravchenko8)
+- [Олександр Кушнір - Developer](https://github.com/dj-egregor)
+- [Катерина Скрипченко - Developer](https://github.com/KateSkrypchenko)
+- [Оксана Тригуб - Developer](https://github.com/OksanaTryhub)
+- [Олена Бондар - Developer](https://github.com/aventinodev)
+- [Марина Скорик - Developer](https://github.com/MarynaSkoryk)
+- [Владислав Шкарапута - Developer](https://github.com/Irfnekf)
+- [Володимир Бублик - Developer](https://github.com/volodymyr198)
+- [Олександр Куликов - Developer](https://github.com/kulykof)
+- [Олександр Сашин - Developer](https://github.com/AleksandrShteimakh)
+- [Віталій Ленін - Developer](https://github.com/VitaliyLenin)
+- [Сергій Руденко - Developer](https://#)
 
 #
 
@@ -38,7 +38,7 @@
 - закріпили знання з HTML і CSS/SASS;
 - закріпили знання з JavaScript;
 - працювали з Parcel;
-- практикували навички командной рjботи з Git;
+- практикували навички командної рoботи з Git;
 - використовували методологію Scrum;
 - працювали з анімацією;
 - вдосконалили навички користування бібліотеками;
