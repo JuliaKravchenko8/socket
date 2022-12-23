@@ -13,24 +13,23 @@
 Filmoteka — це веб-програма для створення бази даних фільмів, яка дозволяє:
 
 - шукати фільми у базі даних;
-
-* переглядати інформацію про популярні фільми;
-* зберігати фільми у бібліотеку (переглянуті і в черзі на перегляд).
+- переглядати інформацію про популярні фільми;
+- зберігати фільми у бібліотеку (переглянуті і в черзі на перегляд).
 
 Наша команда:
 
-..\* [Яна Філь - Team Lead] (https://github.com/iankaFil)
-..\* [Юлія Кравченко - Scrum master] (https://github.com/iankaFil)
-..\* [Олександр Кушнір - Developer] (https://github.com/iankaFil)
-..\* [Катерина Скрипченко - Developer] (https://github.com/iankaFil)
-..\* [Оксана Тригуб - Developer] (https://github.com/iankaFil)
-..\* [Олена Бондар - Developer] (https://github.com/iankaFil)
-..\* [Марина Скорик - Developer] (https://github.com/iankaFil)
-..\* [Владислав Шкарапута - Developer] (https://github.com/iankaFil)
-..\* [Володимир Бублик - Developer] (https://github.com/iankaFil)
-..\* [Олександр Куліков - Developer] (https://github.com/iankaFil)
-..\* [Олександр Сашин - Developer] (https://github.com/iankaFil)
-..\* [Віталій Ленін - Developer] (https://github.com/iankaFil)
+.._ [Яна Філь - Team Lead] (https://github.com/iankaFil)
+.._ [Юлія Кравченко - Scrum master] (https://github.com/iankaFil)
+.._ [Олександр Кушнір - Developer] (https://github.com/iankaFil)
+.._ [Катерина Скрипченко - Developer] (https://github.com/iankaFil)
+.._ [Оксана Тригуб - Developer] (https://github.com/iankaFil)
+.._ [Олена Бондар - Developer] (https://github.com/iankaFil)
+.._ [Марина Скорик - Developer] (https://github.com/iankaFil)
+.._ [Владислав Шкарапута - Developer] (https://github.com/iankaFil)
+.._ [Володимир Бублик - Developer] (https://github.com/iankaFil)
+.._ [Олександр Куліков - Developer] (https://github.com/iankaFil)
+.._ [Олександр Сашин - Developer] (https://github.com/iankaFil)
+.._ [Віталій Ленін - Developer] (https://github.com/iankaFil)
 ..\* [Сергій Руденко - Developer] (https://github.com/iankaFil)
 
 > > > > > > > Stashed changes
