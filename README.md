@@ -31,7 +31,7 @@
 - [Віталій Ленін - Developer](https://github.com/iankaFil)
 - [Сергій Руденко - Developer](https://github.com/iankaFil)
 
----
+#
 
 **Під час виконання проекту ми:**
 
@@ -44,8 +44,8 @@
 - вдосконалили навички користування бібліотекамиж
 - та багато іншого...
 
----
+#
 
-В результаті злагодженої командної роботи ми створили ось такий
+Користуйтеся
 
-# [проект](https://iankafil.github.io/project-group-5-js/)
+# [filmoteka](https://iankafil.github.io/project-group-5-js/)
